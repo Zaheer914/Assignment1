@@ -1,0 +1,15 @@
+C:\Users\zahee\OneDrive\Desktop\Assignment\BonusQuestion\BonusQuestion\bin\Debug\net6.0\BonusQuestion.exe
+C:\Users\zahee\OneDrive\Desktop\Assignment\BonusQuestion\BonusQuestion\bin\Debug\net6.0\BonusQuestion.deps.json
+C:\Users\zahee\OneDrive\Desktop\Assignment\BonusQuestion\BonusQuestion\bin\Debug\net6.0\BonusQuestion.runtimeconfig.json
+C:\Users\zahee\OneDrive\Desktop\Assignment\BonusQuestion\BonusQuestion\bin\Debug\net6.0\BonusQuestion.dll
+C:\Users\zahee\OneDrive\Desktop\Assignment\BonusQuestion\BonusQuestion\bin\Debug\net6.0\BonusQuestion.pdb
+C:\Users\zahee\OneDrive\Desktop\Assignment\BonusQuestion\BonusQuestion\obj\Debug\net6.0\BonusQuestion.csproj.AssemblyReference.cache
+C:\Users\zahee\OneDrive\Desktop\Assignment\BonusQuestion\BonusQuestion\obj\Debug\net6.0\BonusQuestion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zahee\OneDrive\Desktop\Assignment\BonusQuestion\BonusQuestion\obj\Debug\net6.0\BonusQuestion.AssemblyInfoInputs.cache
+C:\Users\zahee\OneDrive\Desktop\Assignment\BonusQuestion\BonusQuestion\obj\Debug\net6.0\BonusQuestion.AssemblyInfo.cs
+C:\Users\zahee\OneDrive\Desktop\Assignment\BonusQuestion\BonusQuestion\obj\Debug\net6.0\BonusQuestion.csproj.CoreCompileInputs.cache
+C:\Users\zahee\OneDrive\Desktop\Assignment\BonusQuestion\BonusQuestion\obj\Debug\net6.0\BonusQuestion.dll
+C:\Users\zahee\OneDrive\Desktop\Assignment\BonusQuestion\BonusQuestion\obj\Debug\net6.0\refint\BonusQuestion.dll
+C:\Users\zahee\OneDrive\Desktop\Assignment\BonusQuestion\BonusQuestion\obj\Debug\net6.0\BonusQuestion.pdb
+C:\Users\zahee\OneDrive\Desktop\Assignment\BonusQuestion\BonusQuestion\obj\Debug\net6.0\BonusQuestion.genruntimeconfig.cache
+C:\Users\zahee\OneDrive\Desktop\Assignment\BonusQuestion\BonusQuestion\obj\Debug\net6.0\ref\BonusQuestion.dll

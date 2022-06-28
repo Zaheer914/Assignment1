@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "BonusQuestion/1.0.0": {
+        "runtime": {
+          "BonusQuestion.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "BonusQuestion/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

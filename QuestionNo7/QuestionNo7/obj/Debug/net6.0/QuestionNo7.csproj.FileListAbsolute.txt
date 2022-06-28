@@ -1,0 +1,15 @@
+C:\Users\zahee\OneDrive\Desktop\Assignment\QuestionNo7\QuestionNo7\bin\Debug\net6.0\QuestionNo7.exe
+C:\Users\zahee\OneDrive\Desktop\Assignment\QuestionNo7\QuestionNo7\bin\Debug\net6.0\QuestionNo7.deps.json
+C:\Users\zahee\OneDrive\Desktop\Assignment\QuestionNo7\QuestionNo7\bin\Debug\net6.0\QuestionNo7.runtimeconfig.json
+C:\Users\zahee\OneDrive\Desktop\Assignment\QuestionNo7\QuestionNo7\bin\Debug\net6.0\QuestionNo7.dll
+C:\Users\zahee\OneDrive\Desktop\Assignment\QuestionNo7\QuestionNo7\bin\Debug\net6.0\QuestionNo7.pdb
+C:\Users\zahee\OneDrive\Desktop\Assignment\QuestionNo7\QuestionNo7\obj\Debug\net6.0\QuestionNo7.csproj.AssemblyReference.cache
+C:\Users\zahee\OneDrive\Desktop\Assignment\QuestionNo7\QuestionNo7\obj\Debug\net6.0\QuestionNo7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zahee\OneDrive\Desktop\Assignment\QuestionNo7\QuestionNo7\obj\Debug\net6.0\QuestionNo7.AssemblyInfoInputs.cache
+C:\Users\zahee\OneDrive\Desktop\Assignment\QuestionNo7\QuestionNo7\obj\Debug\net6.0\QuestionNo7.AssemblyInfo.cs
+C:\Users\zahee\OneDrive\Desktop\Assignment\QuestionNo7\QuestionNo7\obj\Debug\net6.0\QuestionNo7.csproj.CoreCompileInputs.cache
+C:\Users\zahee\OneDrive\Desktop\Assignment\QuestionNo7\QuestionNo7\obj\Debug\net6.0\QuestionNo7.dll
+C:\Users\zahee\OneDrive\Desktop\Assignment\QuestionNo7\QuestionNo7\obj\Debug\net6.0\refint\QuestionNo7.dll
+C:\Users\zahee\OneDrive\Desktop\Assignment\QuestionNo7\QuestionNo7\obj\Debug\net6.0\QuestionNo7.pdb
+C:\Users\zahee\OneDrive\Desktop\Assignment\QuestionNo7\QuestionNo7\obj\Debug\net6.0\QuestionNo7.genruntimeconfig.cache
+C:\Users\zahee\OneDrive\Desktop\Assignment\QuestionNo7\QuestionNo7\obj\Debug\net6.0\ref\QuestionNo7.dll
